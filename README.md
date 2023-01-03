@@ -11,4 +11,8 @@ https://smmx.me/developers
 
 
 Features
-~`Shorten URL`
+
+`Shorten Link
+List Links
+Get a single Link
+Update Link Delete link`
