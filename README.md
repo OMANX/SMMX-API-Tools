@@ -12,7 +12,7 @@ https://smmx.me/developers
 
 Features
 
-`Shorten Link
-List Links
-Get a single Link
-Update Link Delete link`
+- Shorten Link
+- List Links
+- Get a single Link
+- Update Link Delete link
