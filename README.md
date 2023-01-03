@@ -2,8 +2,8 @@
 a Python Testing on my API Features
 
 Requirements
-- API KEY From SMMX.ME
-- Python Donwloaded
+- API KEY From SMMX.ME.
+- Python.
 
 
 Please get an API Key From
@@ -13,6 +13,6 @@ https://smmx.me/developers
 Features
 
 - Shorten Link
-- List Links
-- Get a single Link
-- Update Link Delete link
+- List Links (Coming Soon)
+- Get a single Link (Coming Soon)
+- Update Link Delete link (Coming Soon)
